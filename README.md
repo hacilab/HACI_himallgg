@@ -22,9 +22,9 @@ Pytorch code for Neural Networks 2024 accepted paper "HiMul-LGG: A hierarchical 
 
 ## Performance Comparision
 
--|Dataset|Weighted F1(w) | Acc
+|Dataset|Weighted F1(w) | Acc |
 :-:|:-:|:-:
-Original|IEMOCAP|70.22% | 70.12%
+|IEMOCAP|70.22% | 70.12% |
 
 # MELD
 
@@ -43,11 +43,27 @@ Original|IEMOCAP|70.22% | 70.12%
 
 ## Performance Comparision
 
--|Dataset|Weighted F1(w) | Acc
+|Dataset|Weighted F1(w) | Acc |
 :-:|:-:|:-:
-Original|MELD|65.18% | 66.21%
+|MELD|65.18% | 66.21% |
 
 
 # Acknowledgments
 
 The structure of our code is inspired by [pytorch-DialogueGCN-mianzhang](https://github.com/mianzhang/dialogue_gcn).
+
+# Publication (Please kindly cite our paper)
+
+[HiMul-LGG: A hierarchical decision fusion-based local-global graph neural network for multimodal emotion recognition in conversation](https://www.sciencedirect.com/science/article/pii/S0893608024006889)
+
+
+@article{fu2024himul,\
+  title={HiMul-LGG: A hierarchical decision fusion-based local-global graph neural network for multimodal emotion recognition in conversation},\
+  author={Fu, Changzeng and Qian, Fengkui and Su, Kaifeng and Su, Yikai and Wang, Ze and Shi, Jiaqi and Liu, Zhigang and Liu, Chaoran and Ishi, Carlos Toshinori},\
+  journal={Neural Networks},\
+  pages={106764},\
+  year={2024},\
+  publisher={Elsevier}\
+}
+
+
