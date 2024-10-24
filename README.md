@@ -38,7 +38,7 @@ Pytorch code for Neural Networks 2024 accepted paper "HiMul-LGG: A hierarchical 
 
 ## Predictioning networks 
 
-    python prediction.py --data=./data/meld/newdata.pkl --device=cuda --epochs=1 --batch_size=20 --n_speakers 2
+    python prediction.py --data=./data/meld/newdata.pkl --device=cuda --epochs=1 --batch_size=20 --n_speakers 9
 
 
 ## Performance Comparision
