@@ -4,7 +4,7 @@
     torch-geometric==2.3.0
 ## Introduction
 
-Pytorch code for Neural Networks 2024 accepted paper "HiMul-LGG: A hierarchical decision fusion-based local–global graph neural network for multimodal emotion recognition in conversation"
+Pytorch code for Neural Networks[J] accepted paper "HiMul-LGG: A hierarchical decision fusion-based local–global graph neural network for multimodal emotion recognition in conversation"
 
 # IEMOCAP
 ## Preparing datasets for training
